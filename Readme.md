@@ -17,7 +17,7 @@ English
 I am the Windows 7 Renewed project leader and founder.
 I'm a person who sleeps a lot or is in a daze, so please take care of that...
 
-~~I've been trying to pretend that the project itself never existed...
+~~I've been trying to pretend that the project itself never existed...~~
 
 * There was a time when I was studying the structure of Windows NT 6.1.
 * There was a time when I was trying to make a custom ROM using AOSP (Android Open Source Project) code
